@@ -1,0 +1,53 @@
+
+R version 3.4.3 (2017-11-30) -- "Kite-Eating Tree"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> numeros <- c(1,2,3,5,6,7,8,11,2,3,44,55,6,12,34,56)
+> 
+> var [K(numeros)
+[1] 379.3958
+> var(numeros)[C[Cnumeros <- c(1,2,3,5,6,7,8,11,2,3,44,55,6,12,34,56)7,12,34,56)
+> numeros <- c(1,2,3,5,6,7,8,11,2,3,44,55,67,12,34,56)[C[Cvar(numeros)[K
+[1] 531.1333
+> 
+> var(numeros)[C[C[Cvar(numeros)[C[C[Cavar(numeros)[C[C[C[Crvar(numeros)[C[C[C[C[Civar(numeros)[C[C[C[C[C[Cavar(numeros)[C[C[C[C[C[C[Cnvar(numeros)[C[C[C[C[C[C[C[Ccvar(numeros)[C[C[C[C[C[C[C[C[Civar(numeros)[C[C[C[C[C[C[C[C[C[Cavar(numeros) var(numeros)<var(numeros)-var(numeros) var(numeros)
+> 
+> sqrt(variancia)
+[1] 23.04633
+> 
+> 
+> sd(numeros)
+[1] 23.04633
+> 
+> 
+> nums <- read.csv(file="/home/docker/numerosm[K.csv")
+> 
+> nums
+  X1 X2
+1  2  4
+2  4  6
+3  6  8
+> 
+> 
+> nums$X1
+[1] 2 4 6
+> 
+> hist[K[K[K[Kexit
+Error: object 'exit' not found
+> q()
+Save workspace image? [y/n/c]: n
